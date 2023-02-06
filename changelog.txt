@@ -1,0 +1,12 @@
+Version 1.0 06/02/2023
+
+Ajouts :
+
+
+Correction de bugs :
+
+
+Modifications :
+
+--> Modification de la ligne 32 du fichier app.py dans le dossier teamplate : remplacement de XXXX par 'time' pour relier les fichiers, et cahngement des Nones en variables correfcte
+--> Modification du fichier base.html pour relier le fichier css à ce fichier. 
